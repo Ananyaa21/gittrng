@@ -1,1 +1,1 @@
-line3
+line3 of read 3
