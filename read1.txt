@@ -1,1 +1,1 @@
-line1
+line1 of read 1
